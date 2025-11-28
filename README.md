@@ -284,3 +284,30 @@ Ex: refund_system
 
 Screenshots:
 
+
+<img width="435" height="317" alt="Screenshot 2025-11-28 102034" src="https://github.com/user-attachments/assets/0a3c90cc-f8d6-47b0-9e48-7cddd51c50b1" />
+
+
+
+<img width="502" height="274" alt="Screenshot 2025-11-28 102051" src="https://github.com/user-attachments/assets/ef8f5222-543c-4153-ae60-98665612b2ea" />
+
+
+
+<img width="503" height="254" alt="Screenshot 2025-11-28 102101" src="https://github.com/user-attachments/assets/f3cc417d-45cd-40c0-baf2-afcf48865b92" />
+
+
+
+
+<img width="792" height="251" alt="Screenshot 2025-11-28 102112" src="https://github.com/user-attachments/assets/6ef09bda-974d-4f22-9f31-3407cd1252e6" />
+
+
+
+
+<img width="575" height="278" alt="Screenshot 2025-11-28 102122" src="https://github.com/user-attachments/assets/ce05008b-edb4-43fe-bec2-64f40c069166" />
+
+
+
+
+
+
+
